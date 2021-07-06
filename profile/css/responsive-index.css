@@ -1,0 +1,183 @@
+@media(max-width: 991px) {
+    
+    /* navigation */
+    #menu a {
+        font-size: 1rem;
+        transition: 100ms;
+    }
+    
+    #menuToggle {
+        right: 5%;
+    }
+    
+    #menu {
+        width: 7.5rem;
+        height: 50rem;
+        right: -5%;
+        padding-left: 1.5rem;
+        padding-top: 3.75rem;
+    }
+    
+    #menu li {
+        transition-delay: 1s;
+    }
+    
+    /* home */
+    .mainLogo {
+        width: 100%;
+       }
+    
+    .first-name {
+        padding-top: 6rem;
+        padding-bottom: 20rem;
+        font-size: 4rem;
+        margin: 0;
+    }
+    
+    /* about */
+    #about {
+        height: 44rem;
+    }
+    
+    #about h2 {
+        padding: 3.5rem 0 1.7rem 0;
+        letter-spacing: 0;
+    }
+    
+    .fade-off {
+        transition: all 1s;
+    }
+    
+    #personality {
+        height: 40rem;
+        padding-top: 5rem;
+    }
+    
+    #personality h2 {
+        padding: 0;
+        font-size: 1.8rem;
+    }
+    
+    .per-contents {
+        padding-top: 2.5rem;
+        flex-direction: column;
+    }
+    
+    .per-contents p {
+        font-size: 1.2rem;
+        padding: 1rem 0.7rem;
+    }
+    
+    .comment1, .comment2, .comment3 {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    .per-img {
+        height: 7.5rem;
+        width: 7.5rem;
+        margin: 1rem 1rem 1rem 0.5rem;
+    }
+    
+    .balloon {
+        margin: 1rem 0.5rem 1rem 1rem;
+        min-width: 11em;
+        height: 5rem;
+    }
+    
+    .balloon ::before {
+        top: 50%;
+        left: 100%;
+        margin-top: -15px;
+        margin-left: 0;
+        border: 15px solid transparent;
+        border-left: 15px solid #79c4c4;
+    }
+    
+    .balloon p {
+        margin: 0;
+        padding: 1.5rem 0.5rem;
+        text-align: center;
+    }
+    
+    .comment3 p {
+        font-size: 1rem;
+    }
+    
+    /* skill */
+    #skill {
+        height: 50rem;
+    }
+    
+    #skill h2 {
+        padding-top: 1rem;
+        letter-spacing: 0.1rem;
+    }
+    
+    .skill-icons {
+        margin: 1rem;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .skill-icon1 {
+        font-size: 10rem;
+        color: #79c4c4;
+    }
+    
+    .skill-icon2 {
+        font-size: 8rem;
+        color: #79c4c4;
+        align-self: center;
+    }
+    
+    .skill-icon3 {
+        font-size: 11rem;
+        color: #79c4c4;
+        align-self: center;
+        padding: 0 1rem;
+    }
+    
+    /* portfolio */
+    #portfolio {
+        height: 31.25rem;
+        background-color: #e0d5ca;
+    }
+    
+    #portfolio h2 {
+        padding-top: 1rem;
+        padding-bottom: 1rem;
+    }
+    
+    .portfolios {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    
+    .portfolios img {
+        margin: 0.5rem;
+    }
+    
+    /* contact */
+     #contact h2 {
+        padding-top: 1rem;
+    }
+    
+    .cont-form input {
+        width: 100%;
+    }
+    
+    .cont-form textarea {
+        width: 100%;
+    }
+    
+    .cont-submit {
+        width: 100%;
+    }
+    
+    /* footer */
+    footer {
+        height: 6rem;
+    }
+   
+    }
