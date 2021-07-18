@@ -8,3 +8,4 @@ jQuery(v.3.6.0) / 動きのあるページを作るため、スクロールに�
 
 ### イメージ画像
 <img width="1440" alt="スクリーンショット 2021-07-18 16 48 18" src="https://user-images.githubusercontent.com/76425059/126060167-8bbf571c-0ce0-46a5-aa97-a54fb07e7a88.png">
+<img width="1440" alt="スクリーンショット 2021-07-18 16 49 01" src="https://user-images.githubusercontent.com/76425059/126060218-62608062-0a30-466a-ba7b-d9f3d0c2a130.png">
