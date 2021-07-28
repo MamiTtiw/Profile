@@ -435,7 +435,9 @@ header {
 }
 
 .portfolios img {
-    margin: 5rem;
+    width: 32rem;
+    height: 17rem;
+    margin: 2rem;
 }
 
 /* contact */
